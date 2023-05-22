@@ -1,6 +1,6 @@
 ## Description
 
-This is a simple web-based game that allows the user to choose heads or tails and then flips a coin to determine the outcome. The game keeps track of the user's score and allows them to play multiple rounds.
+This is a simple web-based game that allows the user to choose heads or tails and then flip the  coin to determine the outcome. The game keeps track of the user's score and allows them to play multiple rounds.
 
 ## Installation
 

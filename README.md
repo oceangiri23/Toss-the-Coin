@@ -4,7 +4,11 @@ This is a simple web-based game that allows the user to choose heads or tails an
 
 ## Installation
 
-To play our game, simply download or clone the repository and open the index.html file in your web browser.
+To play our game, simply download or clone the repository and open the index.html file in your web browser. 
+
+OR,
+
+Go to github pages to play...
 
 ## Usage
 
